@@ -16,6 +16,6 @@ class App {
     	System.out.println("What is your name?");
     	name = in.nextLine();
 
-        System.out.println("Hello" + name + "!"); // Display the string.
+        System.out.println("Hello " + name + "!"); // Display the string.
     }
 }
